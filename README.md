@@ -38,3 +38,8 @@ The repository is being organized for reproducible release. Training,
 retrieval, candidate selection, and NAVSIM evaluation code will be migrated
 from the research workspace into the structure above.
 
+## License
+
+Original Auto-JEPA code is released under the [MIT License](LICENSE).
+Third-party code, datasets, and model weights remain subject to their original
+licenses and terms of use.
